@@ -2,7 +2,7 @@
 const gameBoard = document.querySelector('#gameBoard');
 const scoreText = document.querySelector('#score');
 const button = document.querySelector('#button');
-//to use canvas
+//to use canvas 
 const context = gameBoard.getContext('2d');
 //needed variables
 const gameWidth = gameBoard.width;
