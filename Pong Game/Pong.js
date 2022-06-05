@@ -1,3 +1,4 @@
+//:)
 //getting elements from html file
 const gameBoard = document.querySelector('#gameBoard');
 const scoreText = document.querySelector('#score');
